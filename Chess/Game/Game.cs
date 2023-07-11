@@ -1,6 +1,6 @@
-﻿namespace Chess
+﻿namespace Chess.Game
 {
-    internal class Program
+    internal class Game
     {
         static void Main(string[] args)
         {

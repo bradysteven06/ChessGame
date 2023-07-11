@@ -1,0 +1,31 @@
+Chess Game Requirements-
+	2 player mode
+	1 player mode against computer - implement later
+	save/load game
+
+
+Classes
+	Piece Classes
+		Piece - 
+			property Position
+			property Color
+			property HasMoved
+		Pawn -
+		Rook -
+		Knight -
+		Bishop -
+		Queen -
+		King -
+	Game -
+	MoveValidator -
+	Board -
+	Player -
+	Position -
+	Move -
+	GameHistory -
+	AIPlayer -
+
+Enums
+	Color -
+		{White, Black}
+	
